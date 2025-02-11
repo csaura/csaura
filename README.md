@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%40csaura-239a3b.svg)](https://github.com/csaura)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/csaura/)
 [![X](https://img.shields.io/badge/X-%40csaura-222222.svg)](https://x.com/csaura)
-![Static Badge](https://img.shields.io/badge/csaura-csaura?logo=bluesky&labelColor=white&color=black&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fcsaura.com)
+[![Static Badge](https://img.shields.io/badge/csaura-csaura?logo=bluesky&labelColor=white&color=black&link=https%3A%2F%2Fbsky.app%2Fprofile%2Fcsaura.com)](https://bsky.app/profile/csaura.com)
 
 
 I’m a seasoned **Leader and Manager in Software Engineering**. I love creating great software to solve big problems. But what I love even more is assembling a group of talented people to tackle even bigger challenges.
